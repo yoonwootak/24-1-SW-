@@ -1,0 +1,4 @@
+TD1|Beach Paradise|A beautiful beach with clear waters|beach,relax
+TD2|Mountain Escape|A serene mountain retreat|mountain,hiking,relax
+TD3|City Lights|A bustling city with vibrant nightlife|city,urban,entertainment
+TD4|Historical Haven|A place with rich historical landmarks|historical,educational,sightseeing
